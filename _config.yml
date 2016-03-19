@@ -1,0 +1,28 @@
+name: Pendulum Coffee
+favicon: null
+layout_spectrum: 0.9288621183950454
+typography_spectrum: 0.2590846107341349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4495527227409184
+  lightness: 0.26277913083322346
+  saturation: 0.8957457032520324
+  rhythmicContrast: 0.2048810354899615
+purpose: []
