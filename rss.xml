@@ -4,8 +4,15 @@
         <description><![CDATA[Pendulum Coffee]]></description>
         <link>https://thegrid.ai/pendulum-coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 03:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 16:16:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pendulum-coffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grinder]]></title>
+            <description><![CDATA[<article><h1>Grinder</h1><p>The importance of grinding fresh and with a burr should not be overlooked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40858a519d344c2a16535a7d9ecff5a29db91d68.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pendulum-coffee/grinder/index.html</link>
+            <guid isPermaLink="false">45fb6ac8-027c-40b1-8e01-ddf95df7bd27</guid>
+            <pubDate>Sun, 20 Mar 2016 03:15:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Events at Anodyne Coffee]]></title>
             <description><![CDATA[<article><h1>Events at Anodyne Coffee</h1><p>Anodyne Coffee Roasting Company is a micro roastery and retail cafe with locations in both Milwaukee's Bay View and Walker's Point neighborhoods.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9415333a3b7e20546ee7cdbfb13ec912b8d5d605.jpg"></article>]]></description>
@@ -28,11 +35,11 @@
             <pubDate>Sat, 19 Mar 2016 19:19:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Brew coffee better. This is more than a motto. It's a purpose. Coffee has seen many different forms and we are seeing a gap widening between coffee drinkers and coffee producers. Education is a key component to bring these two back together and we want to help bridge that gap. We also know coffee is not just a necessity to start your day, it's a way of life. People have committed their lives to help bring the best cup forward and for many coffee drinkers this may seem intimidating. Scientific brewing devices, geeky coffee baristas, multiple step techniques. </p>]]></description>
+            <title><![CDATA[Our Purpose]]></title>
+            <description><![CDATA[<article><h1>Our Purpose</h1><p>Brew coffee better. This is more than a motto. It's a purpose. Coffee has seen many different forms and we are seeing a gap widening between coffee drinkers and coffee producers. Education is a key component to bring these two back together and we want to help bridge that gap. We also know coffee is not just a necessity to start your day, it's a way of life. People have committed their lives to help bring the best cup forward and for many coffee drinkers this may seem intimidating. Scientific brewing devices, geeky coffee baristas, multiple step techniques. </p></article>]]></description>
             <link>https://thegrid.ai/pendulum-coffee/brew-coffee-better-this-is-more-than-a-motto-its-a-purpos/index.html</link>
             <guid isPermaLink="false">7f399c9c-6feb-438b-969f-2735edf7b88c</guid>
-            <pubDate>Sat, 19 Mar 2016 19:13:46 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 16:16:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
