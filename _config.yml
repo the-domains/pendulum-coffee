@@ -1,28 +1,40 @@
-name: Pendulum Coffee
-favicon: null
-layout_spectrum: 0.98668
-typography_spectrum: 0.76332
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8957457032520324
+  brandStrength: 0.4495527227409184
+  rhythmicContrast: 0.2048810354899615
   brandColors:
     - '#ffffff'
     - '#ed6741'
     - '#ee237c'
     - '#15a1b2'
     - '#f7bcab'
-  brandStrength: 0.4495527227409184
-  lightness: 0.26277913083322346
-  saturation: 0.8957457032520324
-  rhythmicContrast: 0.2048810354899615
-purpose: []
+  lightness: 0.2627791308332235
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Pendulum Coffee
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.76332
+layout_spectrum: 0.6278195
